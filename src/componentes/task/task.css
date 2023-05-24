@@ -1,0 +1,12 @@
+.card-title {
+  height: 20px;
+  background: #091e42;
+  color: white;
+}
+.card-content {
+  display: flex;
+  flex-direction: column;
+}
+.item {
+  margin-top: 10px !important;
+}
